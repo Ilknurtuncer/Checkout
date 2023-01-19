@@ -46,3 +46,11 @@ padding-right: 1rem;
 display: flex;
 flex-direction: column;
 }
+.checkbox{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    font-size: 0.8rem;
+text-align: left;
+}
