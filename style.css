@@ -4,6 +4,8 @@
     box-sizing:border-box;
 }
 form{
+    width: 50%;
+    border: 1px solid red;
     display: flex;
     flex-direction: colum;
     gap: 1rem;
@@ -11,11 +13,31 @@ form{
 }
 form input{
     width: 50%;
+    height: 30px;
+    width: 100%;
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 5px;
 
+
+}
+form label{
+    color: gray;
 }
 #country{
     width: 100%;
+    
 }
 #postCode{
     width: 120%;
+}
+.country-postcode{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: row;
+
+}
+.country, .postcode{
+    gap: 1rem;
+
 }
