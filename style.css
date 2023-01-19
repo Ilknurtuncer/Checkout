@@ -9,3 +9,7 @@ form{
     gap: 1rem;
     padding: 1rem;
 }
+form input{
+    width: 50%;
+
+}
