@@ -25,8 +25,11 @@ form label{
     color: gray;
 }
 #country{
+    height: 30px;
     width: 100%;
-    
+border: 1px solid gray;
+border-radius: 5px;
+
 }
 #postCode{
     width: 120%;
