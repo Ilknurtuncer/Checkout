@@ -13,3 +13,9 @@ form input{
     width: 50%;
 
 }
+#country{
+    width: 100%;
+}
+#postCode{
+    width: 120%;
+}
