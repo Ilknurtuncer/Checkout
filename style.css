@@ -16,6 +16,8 @@ h1{
 }
 form input{
     width: 50%;
+    min-width: 200px;
+    max-width: 500px;
     height: 30px;
     width: 100%;
     color: grey;
